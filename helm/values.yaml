@@ -23,7 +23,7 @@ ascii:
   header: ""
   port: 8080
 img:
-  replicas: 1
+  replicas: 2
   canary: 0
   header: ""
   port: 8080
